@@ -61,9 +61,9 @@ Page length: XXXX
 1. **Empty Form Validation** - Attempts to submit empty form to check for validation errors
 2. **Form Field Detection** - Identifies all available form fields
 3. **Form Filling** - Populates form with test data:
-   - Name: Jane Smith
-   - Email: jane.smith@test.com
-   - Phone: +46701234567
+   - Name: Anjalee Jay
+   - Email: anjaleejay@gmail.com
+   - Phone: +94718888886
    - Message: Test message
 4. **Form Submission** - Submits the completed form
 5. **Success Verification** - Checks for success messages or redirects
@@ -86,10 +86,10 @@ Found 4 form fields:
   4. <input> name='phone' id='phone' placeholder='Phone' required=False
 
 --- Filling Contact Form ---
-✓ Name field filled: Jane Smith
-✓ Email field filled: jane.smith@test.com
-✓ Phone field filled: +46701234567
-✓ Message field filled: Testing the Safora contact form automation...
+Name field filled: Jane Smith
+Email field filled: jane.smith@test.com
+Phone field filled: +46701234567
+Message field filled: Testing the Safora contact form automation...
 
 --- Submitting Form ---
 ✓ Submit button clicked
