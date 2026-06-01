@@ -2,6 +2,31 @@
 
 This workspace contains automated UI tests for the Safora website using Selenium WebDriver.
 
+## Quick Start - Running Commands
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Run Homepage Test
+```bash
+python test_safora.py
+```
+
+### Run Contact Form Test
+```bash
+python test_contact_form.py
+```
+
+### Run Tests in Headless Mode
+```bash
+# Edit the test file and set headless=True
+# Or run with custom configuration as needed
+```
+
+---
+
 ## Setup Instructions
 
 ### Prerequisites
